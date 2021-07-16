@@ -536,7 +536,7 @@ ul {
   border: 0;
   color: #fff;
   border-radius: 3px;
-  background-color: #8c1d8c;
+  background-color: #671a99;
   padding: 10px 36px;
   margin-bottom: 10px;
   -webkit-transition: all 0.3s ease-in-out;
@@ -795,7 +795,7 @@ ul {
   border: 0;
   color: #fff;
   border-radius: 3px;
-  background-color: #8c1d8c;
+  background-color: #671a99;
   padding: 10px 36px;
   margin-bottom: 10px;
   width: 100%;
@@ -811,7 +811,7 @@ ul {
   outline: none;
 }
 .fxt-template-layout2 .switcher-text {
-  color: #8c1d8c;
+  color: #671a99;
   font-size: 15px;
   margin-bottom: 5px;
   display: block;
@@ -823,7 +823,7 @@ ul {
   color: #000000;
 }
 .fxt-template-layout2 .switcher-text2 {
-  color: #8c1d8c;
+  color: #671a99;
   font-size: 15px;
   display: inline-block;
   -webkit-transition: all 0.3s ease-in-out;
@@ -1037,7 +1037,7 @@ ul {
   top: 4px;
 }
 .fxt-template-layout2 .checkbox input[type="checkbox"]:checked + label::before {
-  background-color: #8c1d8c;
+  background-color: #671a99;
   border-color: #ff0000;
 }
 .fxt-template-layout2 .fxt-footer {
@@ -1228,7 +1228,7 @@ ul {
   outline: none;
 }
 .fxt-template-layout3 .switcher-text {
-  color: #8c1d8c;
+  color: #671a99;
   font-size: 15px;
   margin-bottom: 5px;
   display: block;
@@ -1240,7 +1240,7 @@ ul {
   color: #000000;
 }
 .fxt-template-layout3 .switcher-text2 {
-  color: #8c1d8c;
+  color: #671a99;
   font-size: 15px;
   display: inline-block;
   -webkit-transition: all 0.3s ease-in-out;
@@ -1801,7 +1801,7 @@ ul {
   color: #c4302b;
 }
 .fxt-template-layout4 .switcher-text {
-  color: #8c1d8c;
+  color: #671a99;
   font-size: 15px;
   margin-bottom: 5px;
   display: block;
@@ -1813,7 +1813,7 @@ ul {
   color: #000000;
 }
 .fxt-template-layout4 .switcher-text2 {
-  color: #8c1d8c;
+  color: #671a99;
   font-size: 15px;
   display: inline-block;
   -webkit-transition: all 0.3s ease-in-out;
@@ -2504,7 +2504,7 @@ ul {
   color: #666;
 }
 .fxt-template-layout6 .switcher-text2 {
-  color: #8c1d8c;
+  color: #671a99;
   font-size: 15px;
   display: inline-block;
   -webkit-transition: all 0.3s ease-in-out;
@@ -2783,7 +2783,7 @@ ul {
   outline: none;
 }
 .fxt-template-layout7 .switcher-text {
-  color: #8c1d8c;
+  color: #671a99;
   font-size: 15px;
   margin-bottom: 5px;
   display: block;
@@ -2795,7 +2795,7 @@ ul {
   color: #000000;
 }
 .fxt-template-layout7 .switcher-text2 {
-  color: #8c1d8c;
+  color: #671a99;
   font-size: 15px;
   display: inline-block;
   -webkit-transition: all 0.3s ease-in-out;
@@ -4215,7 +4215,7 @@ ul {
   outline: none;
 }
 .fxt-template-layout11 .switcher-text {
-  color: #8c1d8c;
+  color: #671a99;
   font-size: 15px;
   margin-bottom: 5px;
   display: block;
@@ -4227,7 +4227,7 @@ ul {
   color: #000000;
 }
 .fxt-template-layout11 .switcher-text2 {
-  color: #8c1d8c;
+  color: #671a99;
   font-size: 15px;
   display: inline-block;
   -webkit-transition: all 0.3s ease-in-out;
@@ -4613,7 +4613,7 @@ ul {
   outline: none;
 }
 .fxt-template-layout12 .switcher-text {
-  color: #8c1d8c;
+  color: #671a99;
   font-size: 15px;
   margin-bottom: 5px;
   display: block;
@@ -4625,7 +4625,7 @@ ul {
   color: #000000;
 }
 .fxt-template-layout12 .switcher-text2 {
-  color: #8c1d8c;
+  color: #671a99;
   font-size: 15px;
   display: inline-block;
   -webkit-transition: all 0.3s ease-in-out;
@@ -5202,7 +5202,7 @@ ul {
   color: #c4302b;
 }
 .fxt-template-layout13 .switcher-text {
-  color: #8c1d8c;
+  color: #671a99;
   font-size: 15px;
   margin-bottom: 5px;
   display: block;
@@ -5214,7 +5214,7 @@ ul {
   color: #000000;
 }
 .fxt-template-layout13 .switcher-text2 {
-  color: #8c1d8c;
+  color: #671a99;
   font-size: 15px;
   display: inline-block;
   -webkit-transition: all 0.3s ease-in-out;
@@ -5459,7 +5459,7 @@ ul {
   outline: none;
 }
 .fxt-template-layout14 .switcher-text {
-  color: #8c1d8c;
+  color: #671a99;
   font-size: 15px;
   margin-bottom: 5px;
   display: block;
@@ -5471,7 +5471,7 @@ ul {
   color: #000000;
 }
 .fxt-template-layout14 .switcher-text2 {
-  color: #8c1d8c;
+  color: #671a99;
   font-size: 15px;
   display: inline-block;
   -webkit-transition: all 0.3s ease-in-out;
@@ -6194,7 +6194,7 @@ ul {
   outline: none;
 }
 .fxt-template-layout16 .switcher-text {
-  color: #8c1d8c;
+  color: #671a99;
   font-size: 15px;
   margin-bottom: 5px;
   display: block;
@@ -6206,7 +6206,7 @@ ul {
   color: #000000;
 }
 .fxt-template-layout16 .switcher-text2 {
-  color: #8c1d8c;
+  color: #671a99;
   font-size: 15px;
   display: inline-block;
   -webkit-transition: all 0.3s ease-in-out;
@@ -6573,7 +6573,7 @@ ul {
   outline: none;
 }
 .fxt-template-layout17 .switcher-text {
-  color: #8c1d8c;
+  color: #671a99;
   font-size: 15px;
   margin-bottom: 5px;
   display: block;
@@ -6585,7 +6585,7 @@ ul {
   color: #000000;
 }
 .fxt-template-layout17 .switcher-text2 {
-  color: #8c1d8c;
+  color: #671a99;
   font-size: 15px;
   display: inline-block;
   -webkit-transition: all 0.3s ease-in-out;
@@ -7478,7 +7478,7 @@ ul {
   outline: none;
 }
 .fxt-template-layout19 .switcher-text {
-  color: #8c1d8c;
+  color: #671a99;
   font-size: 15px;
   margin-bottom: 5px;
   display: block;
@@ -7787,7 +7787,7 @@ ul {
   outline: none;
 }
 .fxt-template-layout20 .switcher-text {
-  color: #8c1d8c;
+  color: #671a99;
   font-size: 15px;
   margin-bottom: 5px;
   display: block;
@@ -7799,7 +7799,7 @@ ul {
   color: #000000;
 }
 .fxt-template-layout20 .switcher-text2 {
-  color: #8c1d8c;
+  color: #671a99;
   font-size: 15px;
   display: inline-block;
   -webkit-transition: all 0.3s ease-in-out;
@@ -8188,7 +8188,7 @@ ul {
   outline: none;
 }
 .fxt-template-layout21 .switcher-text {
-  color: #8c1d8c;
+  color: #671a99;
   font-size: 15px;
   margin-bottom: 5px;
   display: block;
@@ -8200,7 +8200,7 @@ ul {
   color: #000000;
 }
 .fxt-template-layout21 .switcher-text2 {
-  color: #8c1d8c;
+  color: #671a99;
   font-size: 15px;
   display: inline-block;
   -webkit-transition: all 0.3s ease-in-out;
@@ -8592,7 +8592,7 @@ ul {
   border: 0;
   color: #fff;
   border-radius: 3px;
-  background-color: #8c1d8c;
+  background-color: #671a99;
   padding: 10px 36px;
   margin-bottom: 10px;
   width: 100%;
@@ -8608,7 +8608,7 @@ ul {
   outline: none;
 }
 .fxt-template-layout22 .switcher-text {
-  color: #8c1d8c;
+  color: #671a99;
   font-size: 15px;
   margin-bottom: 5px;
   display: block;
@@ -8620,7 +8620,7 @@ ul {
   color: #000000;
 }
 .fxt-template-layout22 .switcher-text2 {
-  color: #8c1d8c;
+  color: #671a99;
   font-size: 15px;
   display: inline-block;
   -webkit-transition: all 0.3s ease-in-out;
@@ -8817,7 +8817,7 @@ ul {
   top: 4px;
 }
 .fxt-template-layout22 .checkbox input[type="checkbox"]:checked + label::before {
-  background-color: #8c1d8c;
+  background-color: #671a99;
   border-color: #ff0000;
 }
 .fxt-template-layout22 .fxt-footer {
@@ -9874,7 +9874,7 @@ ul {
   color: #ffffff;
 }
 .fxt-template-layout25 .switcher-text2 {
-  color: #8c1d8c;
+  color: #671a99;
   font-size: 15px;
   margin-bottom: 5px;
   display: inline-block;
@@ -11429,7 +11429,7 @@ ul {
   outline: none;
 }
 .fxt-template-layout29 .switcher-text2 {
-  color: #8c1d8c;
+  color: #671a99;
   font-size: 15px;
   margin-top: 5px;
   display: block;
@@ -12059,7 +12059,7 @@ ul {
   background-color: transparent;
   cursor: pointer;
   padding: 0;
-  color: #8c1d8c;
+  color: #671a99;
   text-decoration: underline;
   transition: all 0.3s ease-in-out;
 }
@@ -12542,7 +12542,7 @@ ul {
   background-color: transparent;
   cursor: pointer;
   padding: 0;
-  color: #8c1d8c;
+  color: #671a99;
   text-decoration: underline;
   transition: all 0.3s ease-in-out;
 }
