@@ -30,18 +30,6 @@ Route::post('requestdemo', function (\Illuminate\Http\Request $request) {
 
     $data = array('name' => $name, 'email' => $email, 'messagebody' => $messagebody, 'phone' => $phone, 'company' => $company);
 
-    $email_to = "info@fnkdesigns.co.uk";
-
-    $email_subject = "GyapomCare: Website Demo Request";
-
-    Mail::send('emails.request', $data, function ($message) {
-        $message->to('judyolonga@yahoo.co.uk', 'Mpilo Revival')->subject('Mpilo Revival Interest: Website Demo Request');
-    });
-
-    Mail::send('emails.request', $data, function ($message) {
-        $message->to('ks.mkhonza@gmail.com', 'Mpilo Revival')->subject('Mpilo Revival Interest: Website Demo Request');
-    });
-
     $input = $request->all();
 
     $data = [
@@ -56,12 +44,6 @@ Route::post('requestdemo', function (\Illuminate\Http\Request $request) {
     fputcsv($file,$data);
 
     fclose($file);
-
-//    Mail::send('emails.confirm', $data, function ($message, $request)  {
-//        $message->to($request->get('email'), 'FNK Designs')->subject('Message Confirmation');
-//    });
-//
-//    dd($request->all());
 
     return redirect()->back()->with(['success' => 'Thank you! Your request has been received.']);
 //    return redirect('confirm')->with($data);
